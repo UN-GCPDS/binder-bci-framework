@@ -1,5 +1,6 @@
 dependencies:
 # Main dependencies
+- python >= 3.8
 - applaunchservices >=0.1.7
 - atomicwrites >=1.2.0
 - chardet >=2.0.0
