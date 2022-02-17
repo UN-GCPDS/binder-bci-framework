@@ -1,6 +1,6 @@
 dependencies:
 # Main dependencies
 - python >= 3.8
-- glibc
+- libc6
 - pip:
     - bci-framework
